@@ -1,0 +1,3 @@
+[submodule "timerWin"]
+	path = timerWin
+	url = https://github.com/dinau/timerWin
